@@ -62,7 +62,7 @@ Initially, you will need secrets data that are not provided within this reposito
 
 The `clients_list.csv` file can be used to seed the database with clients once you have seeded the 10 initial employee accounts. I used DBeaver to add the csv file to my database once I had the employees seeded using the function mentioned below. The `clients_list.csv` is also provided in the main directory.
 
-To properly run this application, you will need to provide 10 employee accounts to the following definition to the `initial_employee_setup()` function in `main.rs`. You will need a minimum of 10 employee accounts to seed the database with the client-list as it is currently configured. 
+To properly run this application, you will need to provide 10 employee accounts to the following definition in the `initial_employee_setup()` function of `main.rs` main module. You will need a minimum of 10 employee accounts to seed the database with the client-list as it is currently configured.
 
 ```Rust
 
@@ -73,11 +73,11 @@ let employees = vec![
     
 ```
 
-Add additional lines to equal at least 10, and assign the values for the employee name and password. Save and delete this data after the initial seeding process. The passwords will be hashed, and are what you will use to log into a specific employee account. 
+Add additional lines to equal at least 10, and assign the values for the employee name and password. Save and delete this data after the initial seeding process. The passwords will be hashed, and are what you will use to log into a specific employee's account. These accounts are the method by which you will access the system through.
 
 The employees will be assigned employee_id numbers automatically by the database, starting with id # 1.
 
-I will be providing an example config file that can be used with your own database to build and run the application. Just replace the data in the config.toml file with your own database credentials.
+I will be providing an example config file that can be used with your own database details to build and run the application. Just replace the data in the config.toml file with your own database credentials.
 
 ## Getting started: 
 
