@@ -1,0 +1,37 @@
+# rust specific
+target/
+**/*.rs.bk
+
+# test directories / not needed in the final image
+tests/
+
+# git 
+.git/
+.gitignore
+
+# secrets / config
+# REMEMBER TO UNCOMMENT THIS BEFORE PUSHING NEW V to GH
+#config.toml
+*.pem
+*.key
+
+.env
+.vscode/
+.idea/
+*.swp
+*.swo
+Dockerfile
+.dockerignore
+
+# dependencies, large / seed files etc
+/vendor/
+*~
+*.bak
+*.csv
+*.json
+*.xml
+.DS_Store
+Thumbs.db
+*.log
+
+
