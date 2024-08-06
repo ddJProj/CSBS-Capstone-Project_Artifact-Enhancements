@@ -190,7 +190,7 @@ On the windows environment I used to test the cross-platform functionality, the 
 An example of these documentation pages for this project can be seen below.
 
 
-![DOCUMENTATION SCREENSHOT](https://github.com/ddJProj/CS-Capstone-Artifact-Enhancement-2/blob/main/Documentation-EXAMPLE.png)
+![DOCUMENTATION SCREENSHOT](https://github.com/ddJProj/CS499-Capstone-Project_Artifact-Enhancements/blob/main/Documentation-EXAMPLE.png)
 
 
 # OPERATING THE APPLICATION:
