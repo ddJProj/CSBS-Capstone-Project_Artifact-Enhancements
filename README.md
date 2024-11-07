@@ -1,13 +1,13 @@
-# CS499 - Capstone project - Artifact Enhancements:
+# Computer Science B.S. Program - Capstone Project
 
-## This project was completed with 3 stages of enhancements. 
+## Artifact Enhancements:
 
-This project originated as my final project for CS410: Reverse Engineering. 
+## This project was completed within 3 stages of enhancements. 
 
-
+This project was based on the final project completed during my semester of Software Reverse Engineering. 
 
 ## Enhancements Stage 1:
-The **first stage** of enhancements was a rewrite and restructuring from C++ into Rust. The goal of the first stage of enhancements was to satisfy the Software Engineering and Design component of my capstone project. 
+The **first stage** of enhancements was a full rewrite and restructuring of the application from the original C++ code into Rust. The goal of the first stage of enhancements was to satisfy the Software Engineering and Design component of my capstone project. 
 This first stage included the following source files:
 - main.rs
 - errors.rs
