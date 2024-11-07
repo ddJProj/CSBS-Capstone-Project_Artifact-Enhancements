@@ -1,10 +1,8 @@
 # Computer Science B.S. Program - Capstone Project
 
-## Artifact Enhancements:
+## This project was completed within 3 stages of Artifact enhancements:. 
 
-## This project was completed within 3 stages of enhancements. 
-
-This project was based on the final project completed during my semester of Software Reverse Engineering. 
+This project was based on the final project completed during my semester of Software Reverse Engineering. This project is the artifact selected for my capstone demonstration of proficiency.
 
 ## Enhancements Stage 1:
 The **first stage** of enhancements was a full rewrite and restructuring of the application from the original C++ code into Rust. The goal of the first stage of enhancements was to satisfy the Software Engineering and Design component of my capstone project. 
